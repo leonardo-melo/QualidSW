@@ -6,4 +6,8 @@ public class AlunoXXX extends Pessoa {
 
 	}
 
+	public void CancelarMatricula() {
+
+	}
+
 }
